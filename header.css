@@ -1,0 +1,58 @@
+.header{
+display: flex;
+background-color: gainsboro;
+height: 50px;
+align-items: center;
+}
+.fontlogo{
+
+        
+   padding-left: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 45px;
+}
+
+.headersearch{
+    margin-left: 100px ;
+    display: flex;
+    background-color: gainsboro;
+    height: 50px;
+    align-items: center;
+    }
+.headersearch{
+        width: 650px;
+        background-color: white;
+        height: 40px;
+        border-radius: 8px;
+}
+
+    .location{
+        width:250px;
+        height: 40px;
+        border: none;
+        outline: none;
+        padding: 10px;
+        margin-right: 0;
+        
+    }
+
+    .restaurant{
+        display: flex;
+        align-self: flex-end;
+        width:270px;
+        margin-left: 50px;
+        border: none;
+        height: 40px;
+        outline: none;
+        padding: 10px;
+        
+    }
+
+    .line-break{
+        margin-top: 1;
+        border-right: 2px dashed lightslategray;
+    }
+
+    .restaurant:hover{
+        box-sizing: border-box;
+    }
