@@ -56,3 +56,11 @@ align-items: center;
     .restaurant:hover{
         box-sizing: border-box;
     }
+
+    .frontimage{
+      height: 450px;
+      width: 100%;
+      margin: 0px;
+
+    }
+    
