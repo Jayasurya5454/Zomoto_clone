@@ -57,10 +57,36 @@ align-items: center;
         box-sizing: border-box;
     }
 
-    .frontimage{
-      height: 450px;
+    
+    .frontheader{
+        background-image: url("https://b.zmtcdn.com/web_assets/81f3ff974d82520780078ba1cfbd453a1583259680.png");
+        height: 450px;
       width: 100%;
       margin: 0px;
-
+    }
+    .cc{
+        height: 60px;
+        width: 100px;
+        background-color: brown;
+    }
+    .fontzomato{
+       font-size: 100px;
+       font-weight: bolder;
+       
+ 
+    }
+    .bb{
+        text-align: center;
+        color: white;
+    }
+    .kk{
+        text-align: center;
+        color: white;
+    }
+    .fontdiscover{
+        font-size:40px ;
+    }
+    .restint{
+        height: 35px;
     }
     
