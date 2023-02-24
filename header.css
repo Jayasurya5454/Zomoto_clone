@@ -89,4 +89,9 @@ align-items: center;
     .restint{
         height: 35px;
     }
+    .cardstart{
+         display: flex;
+         flex-direction: row;
+         justify-content: space-between;
+    }
     
