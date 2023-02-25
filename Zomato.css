@@ -261,8 +261,8 @@ align-items: center;
         flex-direction: column;
         justify-content: space-between;
      }
+     body{
+      background-color:rgb(244, 244, 244);
+      }
       
-      
-      
-      
-    
+            
